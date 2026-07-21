@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+
+}
+
+.caixa-texto {
+     margin-left: 50px;
+}
+
+.link-header {
+    cursor: pointer;
+    color: #17233D;
+    line-height: 21px;
+    margin-right: 32px;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: center;
+
+
+}
+
+.button-header {
+    background: #6fbf44;
+    width: 124px;
+    height: 51px;
+    left: 420px;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    border:none;
+
+}
+
+
+
+img {
+    margin-top: 163px 0 0 123px;
+
+
+}
+
+div {
+
+    display: inline-block;
+    margin-left: 85px;
+    height: 164px;
+    margin-top: 250px;
+}
+
+p {
+    height: 99px;
+    font-weight: 400;
+    font-size: 18px;
+    height: 99px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+    line-height: 33px;
+    color: #4b505a;
+    width: 493px;
+}
+
+h1 {
+    width: 582px;
+    height: 164px;
+    left: 801px;
+    top: 342px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161a49;
+}
+
+
+
+.button-learn-more {
+    white-space: nowrap;
+    width: 112px;
+    height: 27px;
+    top: 707px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    color: #6fbf44;
+}
+
+@media screen and (max-width: 600px) {
+    .link-header {
+        display: none;
+    }
+    div {
+        height: 100vw;
+        margin-left: 30px;
+        }
+
+    .container-pai {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    width: 100%;
+    }
+
+    .button-header {
+        margin: 61px 18px;
+        width: 91px;
+        height: 31px;
+        top: 6px;
+        left: 20px;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 100%;
+        letter-spacing: 1px;
+        background: #6fbf44;
+        border: none;
+        border-radius: 20px;
+        margin-left: 280px;
+   }
+ 
+ 
+    h1 {
+
+        width: 278px; 
+        height: 60px;
+        line-height: 30px;
+        font-weight: 700;
+        font-size: 30px;
+        letter-spacing: 0.6;
+        color: #161a49;
+        align-items: center;
+    }
+
+    p {
+
+        width: 304px;
+        height: 165px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 33px;
+        letter-spacing: 0.5;
+        color: #4b505a;
+        
+    }
+
+    img {
+
+        width: 80%;
+        
+
+    }
+    .button-learn-more {
+        width: 112px;
+        height: 50px;
+        display: block;
+        margin-left: 20vw;
+    }
+
+}
