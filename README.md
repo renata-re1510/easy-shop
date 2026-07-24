@@ -10,4 +10,4 @@
 <p>Assim como para celular. ​📱</p>​​
 
 ​
-<img src="https://github.com/renata-re1510/easy-shop/blob/main/img/projeto1sapatos.png?raw=true"/>
+<img src=""/>
