@@ -7,7 +7,9 @@
 
 <p>Esse projeto está no formato para desktop. 🖥️</p>
 <br>
-<p>Assim como para celular. ​📱</p>​​
-
-​
-<img src=""/>
+​​
+<img src="https://github.com/renata-re1510/easy-shop/blob/main/img/easyshopdesktop.jpeg?raw=true"/>
+<br>
+<p>Assim como para celular.​ 📱​</p>
+<br>
+<img src=""
