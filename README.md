@@ -10,6 +10,6 @@
 ​​
 <img src="https://github.com/renata-re1510/easy-shop/blob/main/img/easyshopdesktop.jpeg?raw=true"/>
 <br>
-<p>Assim como para celular.​ 📱​</p>
+<p>Assim como para celular.​📱​</p>
 <br>
-<img src=""
+<img src="https://github.com/renata-re1510/easy-shop/blob/main/img/easyshopmobile.jpeg?raw=true">
